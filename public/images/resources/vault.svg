@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="225" viewBox="0 0 400 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="225" fill="#374151"/>
+  <rect width="400" height="225" fill="url(#paint0_linear)" fill-opacity="0.9"/>
+  <path d="M170 80H230V140H170V80Z M180 90H220V130H180V90Z" fill="white"/>
+  <circle cx="200" cy="110" r="10" fill="#374151"/>
+  <text x="200" y="170" text-anchor="middle" fill="white" font-family="Inter, system-ui" font-size="24" font-weight="bold">Vault Guide</text>
+  <text x="200" y="195" text-anchor="middle" fill="white" font-family="Inter, system-ui" font-size="14">Investment Banking Rankings</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="400" y2="225" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#374151"/>
+      <stop offset="1" stop-color="#4B5563"/>
+    </linearGradient>
+  </defs>
+</svg> 

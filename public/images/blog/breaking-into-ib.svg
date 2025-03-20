@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="800" height="450" viewBox="0 0 800 450" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="800" height="450" fill="#0F172A"/>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="800" y2="450" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#1E293B"/>
+    </linearGradient>
+  </defs>
+  <rect width="800" height="450" fill="url(#paint0_linear)"/>
+  <text x="400" y="200" text-anchor="middle" fill="white" font-family="Arial" font-size="48" font-weight="bold">
+    Breaking Into
+  </text>
+  <text x="400" y="260" text-anchor="middle" fill="white" font-family="Arial" font-size="48" font-weight="bold">
+    Investment Banking
+  </text>
+  <text x="400" y="320" text-anchor="middle" fill="white" font-family="Arial" font-size="24">
+    A Comprehensive Guide
+  </text>
+</svg> 

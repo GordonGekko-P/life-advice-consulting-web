@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="225" viewBox="0 0 400 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="225" fill="#4F46E5"/>
+  <rect width="400" height="225" fill="url(#paint0_linear)" fill-opacity="0.9"/>
+  <circle cx="200" cy="100" r="30" stroke="white" stroke-width="4" fill="none"/>
+  <text x="200" y="110" text-anchor="middle" fill="white" font-family="Inter, system-ui" font-size="24" font-weight="bold">?</text>
+  <text x="200" y="160" text-anchor="middle" fill="white" font-family="Inter, system-ui" font-size="24" font-weight="bold">400 Questions</text>
+  <text x="200" y="185" text-anchor="middle" fill="white" font-family="Inter, system-ui" font-size="14">Technical & Behavioral Guide</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="400" y2="225" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#4F46E5"/>
+      <stop offset="1" stop-color="#6366F1"/>
+    </linearGradient>
+  </defs>
+</svg> 

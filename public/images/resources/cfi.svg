@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="400" height="225" viewBox="0 0 400 225" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <rect width="400" height="225" fill="#0F172A"/>
+  <rect width="400" height="225" fill="url(#paint0_linear)" fill-opacity="0.9"/>
+  <path d="M170 80H230V100H170V80Z" fill="white"/>
+  <path d="M190 100H210V140H190V100Z" fill="white"/>
+  <text x="200" y="170" text-anchor="middle" fill="white" font-family="Inter, system-ui" font-size="24" font-weight="bold">CFI</text>
+  <text x="200" y="195" text-anchor="middle" fill="white" font-family="Inter, system-ui" font-size="14">Corporate Finance Institute</text>
+  <defs>
+    <linearGradient id="paint0_linear" x1="0" y1="0" x2="400" y2="225" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#0F172A"/>
+      <stop offset="1" stop-color="#334155"/>
+    </linearGradient>
+  </defs>
+</svg> 
